@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AND202prework</string>
+    <string name="diana_intro">Hello World! I\'m Diana and I love learning Kotlin!</string>
+    <string name="button_text">Say Hello</string>
+</resources>
